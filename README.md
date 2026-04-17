@@ -57,8 +57,14 @@ This system enforces structured cash handling, reduces input errors, and creates
 5. Use Search to view historical records  
 
 ---
-
 ## 📸 Screenshots
+
+---
+
+### Splash Screen (System Entry)
+![Splash](Splash.jpg)
+
+Controlled entry screen with system initialization and version display.
 
 ---
 
@@ -87,6 +93,20 @@ Stores submitted data by date and shift.
 ![Search Sheet](Search.jpg)
 
 Allows retrieval of past till data by date.
+
+---
+
+### Info Panel (System Control)
+![Info](Info.jpg)
+
+Manages period settings, week ranges, and system navigation.
+
+---
+
+### Version History (Tracking)
+![Version History](Version-History.jpg)
+
+Displays system version and tracks updates over time.
 
 ---
 
