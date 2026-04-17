@@ -83,7 +83,7 @@ Holds active shift data synced from the COVER sheet.
 ---
 
 ### Weekly Database (Storage)
-![Week Sheet](Week.jpg)
+![Week Sheet](Weeks.jpg)
 
 Stores submitted data by date and shift.
 
